@@ -20,7 +20,7 @@
 
 
 
-<p align="center">Desenvolvedor Front-End. Graduando em Sistemas de Informação, em transição de carreira. Em busca de aperfeiçoamento pessoal e profissional.</p>
+<p align="center">Desenvolvedor Front-End. Graduando em Sistemas de Informação, em transição de carreira também estudo Análise de dados. Em busca de aperfeiçoamento pessoal e profissional.</p>
 <p align="center">Apaixonado por tecnologia, música, pela natureza e viagens, principalmente praias :) </p>
 <div>
 <a href="https://github.com/asuosdgx">
