@@ -24,9 +24,9 @@
 <p align="center">Apaixonado por tecnologia, música, pela natureza e viagens, principalmente praias :) </p>
 <div>
 <a href="https://github.com/asuosdgx">
-<div align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobsfoxx&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+
+
 
 <h2><a href="https://www.linkedin.com/in/douglas-morais-a42151187/">Meu Linkedin</a></h2>
 
